@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reflection;
 using System.Diagnostics;
 
-namespace Тест_Digital_Design
+namespace Word_Counter
 {    
     class Program
     {
